@@ -40,7 +40,7 @@ Der Kurs ist primär für Studierende unserer Präsenzveranstaltung gedacht, eig
   
 [**3. Topographische Karten**]({{ site.baseurl }}{% link _unit03/unit03-01_topo_karten.md %}) - Kartentypen, Inhalte topographischer Karten, Koordinaten und Gitternetz, Nordrichtungen, Reliefdarstellung, Konstruktion eines Höhenprofils
   
-**4. Räumliche Orientierung** - Verortung, Vermessung, Orientierung
+[**4. Räumliche Orientierung**]({{ site.baseurl }}{% link _unit04/unit04-01_orientierung.md %}) - Verortung, Vermessung, Orientierung
   
 **5. Thematische Karten** - Typen thematischer Karten, Sach- und Raumbezug von Geodaten, Visualisierung von Geodaten
   

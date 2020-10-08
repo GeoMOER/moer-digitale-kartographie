@@ -11,7 +11,7 @@ header:
 Nach dieser Literaturarbeit sollen Sie in der Lage sein, die Dimensionen der Medienkompetenz zu erläutern und zu diskutieren.
 Benötigte Texte für diese Literaturarbeit:
 
-  * Baacke et al. (1999) (**VERLINKEN!!**)
+  * [Baacke et al. (1999)](https://www.zotero.org/envin_umr/items/C849ZSZP/item-details){:target="_blank"}
 
 ## Medienkompetenz
 
@@ -20,11 +20,11 @@ Der Themenkomplex der Medienkompetenz wurde bereits kurz eingeführt, der Kompet
   * In wieweit geht der Begriff der Kompetenz über den Bereich der Erziehungs- und Bildungsinstitutionen hinaus?
   * Auf welchen Kompetenzbereichen baut die Medienkompetenz auf?
 
-*Bitte lesen Sie jetzt die Kapitel 1 und 2 aus Baacke et al. (1999). (**VERLINKEN!!**)*
+*Bitte lesen Sie jetzt die Kapitel 1 und 2 aus [Baacke et al. (1999)](https://www.zotero.org/envin_umr/items/C849ZSZP/item-details){:target="_blank"}*
 
 Ausgehend von einer ganzheitlichen Betrachtung des Kompetenzbegriffs kann auch die Medienkompetenz nicht auf rein technische Aspekte beschränkt werden. Vielmehr gliedert sie sich nach Baacke in vier Dimensionen, die im letzten Kapitel des Aufsatzes vorgestellt und in ihren Konsequenzen kurz diskutiert werden.
 
-*Bitte lesen Sie jetzt Kapitel 4 aus Baacke et al. (1999). (**VERLINKEN!!**)*
+*Bitte lesen Sie jetzt Kapitel 4 aus [Baacke et al. (1999)](https://www.zotero.org/envin_umr/items/C849ZSZP/item-details){:target="_blank"}*
 
 ## Visualisierung der Medienkompetenzdimensionen
 

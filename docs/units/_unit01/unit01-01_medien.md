@@ -15,6 +15,5 @@ Am Ende des Abschnitts sollten Sie in der Lage sein
 
 {% include video id="C0V2zejaTz4" provider="youtube" %}
 
-
 ## Folien der Videos als PDF
 {% include pdf pdf="MOER-MK_Slides_01_-_Medien.pdf" %}
