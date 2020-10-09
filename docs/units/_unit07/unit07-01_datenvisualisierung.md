@@ -7,6 +7,7 @@ header:
 ---
 
 ***Diagramme entwickeln und kritisch hinterfragen als Grundlage für eine differenzierte Bewertung der Informationen.***
+<!--more-->
 
 Am Ende der Sitzung sollten Sie in der Lage sein
 

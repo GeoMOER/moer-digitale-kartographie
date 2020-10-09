@@ -7,6 +7,7 @@ header:
 ---
 
 ***Einführung in die Modellierung der Erde als Karte mit Hilfe von Kartenprojektionen.***
+<!--more-->
 
 Am Ende des Abschnitts sollten Sie in der Lage sein
 

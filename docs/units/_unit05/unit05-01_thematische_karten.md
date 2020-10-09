@@ -7,6 +7,7 @@ header:
 ---
 
 ***Thematische Karten als Modell zur räumlichen Datenvisualisierung.***
+<!--more-->
 
 Am Ende der Sitzung sollten Sie in der Lage sein
 

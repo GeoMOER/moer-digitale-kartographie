@@ -7,6 +7,7 @@ header:
 ---
 
 ***Erarbeitung eines pragmatischen Modellverständnisses***
+<!--more-->
 
 Am Ende des Abschnitts sollten Sie in der Lage sein
 

@@ -7,6 +7,7 @@ header:
 ---
 
 ***Einführung in die Arbeit mit virtuellen Globen***
+<!--more-->
 
 Am Ende der Sitzung sollten Sie in der Lage sein
 

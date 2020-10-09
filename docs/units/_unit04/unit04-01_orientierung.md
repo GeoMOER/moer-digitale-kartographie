@@ -8,6 +8,7 @@ header:
 ---
 
 ***Räumliche Orientierung als zentrale Handlungskompetenz.***
+<!--more-->
 
 Am Ende der Sitzung sollten Sie in der Lage sein
 

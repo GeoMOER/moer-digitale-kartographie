@@ -7,6 +7,7 @@ header:
 ---
 
 ***Reflexion von Karten als Grundlage für einen bewussten Umgang mit Geomedien***
+<!--more-->
 
 Am Ende der Sitzung sollten Sie in der Lage sein
 

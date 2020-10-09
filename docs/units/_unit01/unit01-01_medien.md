@@ -6,7 +6,8 @@ header:
   image_description: "John Snows "
   caption: "Map: [**Dr. John Snow**](https://de.wikipedia.org/wiki/John_Snow_(Mediziner)) [Wellcome Library via wikimedia](https://w.wiki/QtV)"
 ---
-## Eine kurze Einführung in die Medienkompetenz unter geographischer Perspektive.
+***Eine kurze Einführung in die Medienkompetenz unter geographischer Perspektive.***
+<!--more-->
 
 Am Ende des Abschnitts sollten Sie in der Lage sein
   * die Bedeutung von Medien für Unterricht zu reflektieren,
