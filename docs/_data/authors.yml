@@ -11,14 +11,14 @@
   avatar           : "/assets/images/dippell.jpg"
   email            : "ui-lehre@geo.uni-marburg.de"
   home             : "https://www.uni-marburg.de/de/fb19/disciplines/physisch/umweltinformatik/umweltinformatik"
-- beckmann:
-  name             : "Jonas Beckmann"
-  avatar           : "/assets/images/beckmann.jpg"
-  email            : "ui-lehre@geo.uni-marburg.de"
-  home             : "https://www.uni-marburg.de/de/fb19/disciplines/physisch/umweltinformatik/umweltinformatik"
+- dorsch:
+  name             : "Christian Dorsch"
+  avatar           : "/assets/images/dorsch.jpg"
+  email            : "dorsch@geo.uni-frankfurt.de"
+  home             : "https://www.uni-frankfurt.de/45862947/Kurzportrait"
 - langenohl:
   name             : "David Langenohl"
-  avatar           : "/assets/images/langenohl.jpg"
+  avatar           : "/assets/images/langenohl1.jpg"
   email            : "ui-lehre@geo.uni-marburg.de"
   home             : "https://www.uni-marburg.de/de/fb19/disciplines/physisch/umweltinformatik/umweltinformatik"
 - nauss:
@@ -28,7 +28,7 @@
   home             : "https://www.uni-marburg.de/de/fb19/disciplines/physisch/umweltinformatik/umweltinformatik"
 - peter:
   name             : "Carina Peter"
-  avatar           : "/assets/images/peter.jpg"
+  avatar           : "/assets/images/peter1.jpg"
   email            : "ui-lehre@geo.uni-marburg.de"
   home             : "https://www.uni-marburg.de/de/fb19/disciplines/physisch/umweltinformatik/umweltinformatik"
 - reudenbach:

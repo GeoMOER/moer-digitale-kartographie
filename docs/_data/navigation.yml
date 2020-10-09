@@ -3,11 +3,13 @@ main:
   - title: "Kurseinheiten"
     url: /units.html
   - title: "FAQ"
-    url: /unit00/unit00-04_faq.html
+    url: /unit99/unit99-01_faq.html
   - title: "Zu ILIAS"
     url: https://ilias.uni-marburg.de/ilias.php?ref_id=1858892&cmdClass=ilrepositorygui&cmdNode=ts&baseClass=ilrepositorygui
   - title: "Zur OER"
     url: https://oer.uni-marburg.de/goto.php?target=cat_1651239&client_id=UNIMR
+  - title: "Zur FOC"
+    url: http://foc.neu.geomedienlabor.de/doku.php?id=start
   - title: "Seitenübersicht"
     url: /sitemap.html
 
@@ -17,8 +19,10 @@ docs:
   - title: Ways out
     children:
       - title: "Kurseinheiten"
-        url: /units.html
+        url: /_site/units.html
       - title: "Zu ILIAS"
         url: https://ilias.uni-marburg.de/ilias.php?ref_id=1858892&cmdClass=ilrepositorygui&cmdNode=ts&baseClass=ilrepositorygui
       - title: "Zum OER"
         url: https://oer.uni-marburg.de/goto.php?target=cat_1651239&client_id=UNIMR
+      - title: "Zur FOC"
+        url: http://foc.neu.geomedienlabor.de/doku.php?id=start

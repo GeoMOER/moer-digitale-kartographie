@@ -97,7 +97,19 @@ collections:
   unit10:
     output: true
     permalink: /:collection/:title.html
-  worksheets:
+  unit11:
+    output: true
+    permalink: /:collection/:title.html
+  unit12:
+    output: true
+    permalink: /:collection/:title.html
+  unit13:
+    output: true
+    permalink: /:collection/:title.html
+  unit14:
+    output: true
+    permalink: /:collection/:title.html
+  unit99:
     output: true
     permalink: /:collection/:title.html
 
@@ -193,16 +205,56 @@ defaults:
       layout: single
       sidebar:
         nav: "course_unit"      
- # unit10
+  # unit10
   - scope:
       path: ""
       type: unit10
     values:
-      category: "Zusätzliche Ressourcen"
+      category: "Geoweb und reflexive Kartenarbeit"
       tags: "Unit 10"
       layout: single
       sidebar:
-        nav: "course_unit"              
+        nav: "course_unit"
+  # unit11
+  - scope:
+      path: ""
+      type: unit11
+    values:
+      category: "Geocaching und räumliche Orientierung"
+      tags: "Unit 11"
+      layout: single
+      sidebar:
+        nav: "course_unit"
+  # unit12
+  - scope:
+      path: ""
+      type: unit12
+    values:
+      category: "Digitale Globen im Unterricht"
+      tags: "Unit 12"
+      layout: single
+      sidebar:
+        nav: "course_unit"
+  # unit13
+  - scope:
+      path: ""
+      type: unit13
+    values:
+      category: "WebGIS im Unterricht"
+      tags: "Unit 13"
+      layout: single
+      sidebar:
+        nav: "course_unit"
+  # unit99
+  - scope:
+      path: ""
+      type: unit99
+    values:
+      category: "FAQ"
+      tags: "Unit 99"
+      layout: single
+      sidebar:
+        nav: "course_unit" 
   # pages
   - scope:
       path: "_pages"
