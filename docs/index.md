@@ -56,9 +56,9 @@ Der Kurs ist primär für Studierende unserer Präsenzveranstaltung gedacht, eig
 
 [**10. GeoWeb und reflexive Kartenarbeit**]({{ site.baseurl }}{% link _unit10/unit10-01_einführung.md %}) - Materialien, Anwendungen, Analyse und Reflexion von GeoWeb-Anwendungen
 
-[**11. Geocaching und räumliche Orientierung**]({{ site.baseurl }}{% link _unit11/unit11-01_lerneinheit.md %}) - Grundlagen, Anwendungen, Kompetenzen
+[**11. Geocaching und räumliche Orientierung**]({{ site.baseurl }}{% link _unit11/unit11-01_einführung.md %}) - Grundlagen, Anwendungen, Kompetenzen
  
-[**12. Digitale Globen im Unterricht**]({{ site.baseurl }}{% link _unit12/unit12-01_lerneinheit.md %}) - Möglichkeiten, Mehrwert, Grenzen
+[**12. Digitale Globen im Unterricht**]({{ site.baseurl }}{% link _unit12/unit12-01_einführung.md %}) - Möglichkeiten, Mehrwert, Grenzen
 
 [**13. WebGIS im Unterricht**]({{ site.baseurl }}{% link _unit13/unit13-01_lerneinheit.md %}) - Aufbau und Funktionen von WebGIS-Anwendungen
 
