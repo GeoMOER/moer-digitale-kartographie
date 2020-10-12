@@ -210,7 +210,7 @@ defaults:
       path: ""
       type: unit10
     values:
-      category: "Geoweb und reflexive Kartenarbeit"
+      category: "10 Geoweb und reflexive Kartenarbeit"
       tags: "Unit 10"
       layout: single
       sidebar:
@@ -220,7 +220,7 @@ defaults:
       path: ""
       type: unit11
     values:
-      category: "Geocaching und räumliche Orientierung"
+      category: "11 Geocaching und räumliche Orientierung"
       tags: "Unit 11"
       layout: single
       sidebar:
@@ -230,7 +230,7 @@ defaults:
       path: ""
       type: unit12
     values:
-      category: "Digitale Globen im Unterricht"
+      category: "12 Digitale Globen im Unterricht"
       tags: "Unit 12"
       layout: single
       sidebar:
@@ -240,7 +240,7 @@ defaults:
       path: ""
       type: unit13
     values:
-      category: "WebGIS im Unterricht"
+      category: "13 WebGIS im Unterricht"
       tags: "Unit 13"
       layout: single
       sidebar:

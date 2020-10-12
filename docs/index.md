@@ -54,7 +54,7 @@ Der Kurs ist primär für Studierende unserer Präsenzveranstaltung gedacht, eig
   
 [**9. Modelle**]({{ site.baseurl }}{% link _unit09/unit09-01_modelle.md %}) - Wissensgenerierung und Lernmedium
 
-[**10. GeoWeb und reflexive Kartenarbeit**]({{ site.baseurl }}{% link _unit10/unit10-01_lerneinheit.md %}) - Materialien, Anwendungen, Analyse und Reflexion von GeoWeb-Anwendungen
+[**10. GeoWeb und reflexive Kartenarbeit**]({{ site.baseurl }}{% link _unit10/unit10-01_einführung.md %}) - Materialien, Anwendungen, Analyse und Reflexion von GeoWeb-Anwendungen
 
 [**11. Geocaching und räumliche Orientierung**]({{ site.baseurl }}{% link _unit11/unit11-01_lerneinheit.md %}) - Grundlagen, Anwendungen, Kompetenzen
  
