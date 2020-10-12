@@ -7,7 +7,6 @@ header:
   caption: "Map: [**Dr. John Snow**](https://de.wikipedia.org/wiki/John_Snow_(Mediziner)) [Wellcome Library via wikimedia](https://w.wiki/QtV)"
 ---
 
-
 Zur Bearbeitung des [Arbeitsblatts 1 „Aralsee – Wasser. Wüste. Wirtschaft“]({{ site.baseurl }}{% link _unit12/unit12-04_arbeitsblatt.md %}) sind folgende Materialien und Daten u. U. hilfreich.
 
 Zur Bearbeitung mit Google Earth

@@ -1,11 +1,13 @@
 ---
-title: Material | Übersicht der Hauptanwendungsbereiche eines Globus, mit speziellem Bezug zum Unterricht
+title: Material | Hauptanwendungsbereiche eines Globus
 toc: false
 header:
   image: /assets/images/01-splash.jpg
   image_description: "John Snows "
   caption: "Map: [**Dr. John Snow**](https://de.wikipedia.org/wiki/John_Snow_(Mediziner)) [Wellcome Library via wikimedia](https://w.wiki/QtV)"
 ---
+**Übersicht der Hauptanwendungsbereiche eines Globus, mit speziellem Bezug zum Unterricht***
+
 * Veranschaulichung der Erdgestalt (Kugel, Ellipsoid, Geoid)
 
 * Die Erde als Planet (Rotation, Ekliptik, Jahreszeiten, Tageszeiten, Beleuchtung, Zeitzonen)
@@ -42,4 +44,4 @@ header:
 
 * Verdichtungsräume, Verstädterung und Stadtstrukturen, räumliche Disparitäten 
 
-*Quelle: Scheidl, W. (2009): Was ist Google Earth wirklich wert? Zehn provokante Thesen zu Virtuellen Globen im Geographieunterricht. In. GW-Unterricht Nr. 115. *
+**Quelle: Scheidl, W. (2009): Was ist Google Earth wirklich wert? Zehn provokante Thesen zu Virtuellen Globen im Geographieunterricht. In. GW-Unterricht Nr. 115.*

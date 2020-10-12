@@ -60,7 +60,7 @@ Der Kurs ist primär für Studierende unserer Präsenzveranstaltung gedacht, eig
  
 [**12. Digitale Globen im Unterricht**]({{ site.baseurl }}{% link _unit12/unit12-01_einführung.md %}) - Möglichkeiten, Mehrwert, Grenzen
 
-[**13. WebGIS im Unterricht**]({{ site.baseurl }}{% link _unit13/unit13-01_lerneinheit.md %}) - Aufbau und Funktionen von WebGIS-Anwendungen
+[**13. WebGIS im Unterricht**]({{ site.baseurl }}{% link _unit13/unit13-01_einführung.md %}) - Aufbau und Funktionen von WebGIS-Anwendungen
 
 ## Studien- und Prüfungsleistung
 

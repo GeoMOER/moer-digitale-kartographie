@@ -1,11 +1,12 @@
 ---
-title: Lerneinheit | Digitale Globen im Unterricht: Mehrwert und Grenzen
+title: Lerneinheit | Digitale Globen im Unterricht
 toc: false
 header:
   image: /assets/images/01-splash.jpg
   image_description: "John Snows "
   caption: "Map: [**Dr. John Snow**](https://de.wikipedia.org/wiki/John_Snow_(Mediziner)) [Wellcome Library via wikimedia](https://w.wiki/QtV)"
 ---
+**Digitale Globen im Unterricht - Mehrwert und Grenzen**
 
 Nachdem Sie das Übungsbeispiel durchgearbeitet haben, sollen Sie sich in dieser Lerneinheit Gedanken über den Einsatz eines digitalen Globus im Lehr-/Lerngeschehen machen.
 

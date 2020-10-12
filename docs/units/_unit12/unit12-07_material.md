@@ -1,11 +1,13 @@
 ---
-title: Material | Themensammlung zur Verwendung von Google Earth im Unterricht
+title: Material | Google Earth im Unterricht
 toc: false
 header:
   image: /assets/images/01-splash.jpg
   image_description: "John Snows "
   caption: "Map: [**Dr. John Snow**](https://de.wikipedia.org/wiki/John_Snow_(Mediziner)) [Wellcome Library via wikimedia](https://w.wiki/QtV)"
 ---
+**Themensammlung zur Verwendung von Google Earth im Unterricht***
+
 Für den Einsatz von digitalen Globen im Unterricht ist vor allem eines gefragt: KREATIVITÄT. Die nachfolgende Liste* zeigt mögliche Anwendungsbeispiele zum Einsatz von Digitalen Globen, inbesondere für Google Earth, auf und kann beliebig erweitert werden:
 
 *Räumliche Orientierung:* Arbeiten mit Himmelsrichtungen, Höhe, Neigung, Rotation usw.
@@ -32,4 +34,4 @@ Für den Einsatz von digitalen Globen im Unterricht ist vor allem eines gefragt:
 
 *Wie die City funktioniert* – Stadtstrukturen erkennen und Analysieren: Unter Verwendung von Satellitenbildern, 3D-Gebäuden, Google Street View und eingebundenen Bildern werden Siedlungsstrukturen exemplarisch analysiert und Probleme von Ballungsräumen identifizieren.
 
-*zusammengetragen durch I. Gryl und U. Schulze*
+**zusammengetragen durch I. Gryl und U. Schulze*

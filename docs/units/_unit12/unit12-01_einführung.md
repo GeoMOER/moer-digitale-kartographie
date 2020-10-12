@@ -20,5 +20,5 @@ Damit Sie diese Übung umsetzen können, benötigen Sie
   * eine Installation von [Google Earth](https://www.google.de/intl/de/earth/){:target="_blank"} (Mac oder Windows)
   * eine Installation von [Diercke Globus Online](https://diercke.westermann.de/diercke-globus){:target="_blank"} (entweder lokal auf dem Rechner, oder als USB-Stick Version)
   * Bitte nutzen Sie keine Tablets oder Smartphones für diese Übung, da hierauf die Bedienung der Anwendungen eher ungünstig ist.
-    Weitere Anweisungen und zusätzliche Materialien finden Sie unter [M01-3]({{ site.baseurl }}{% link _unit10/unit12-08_material.md %}).
+    Weitere Anweisungen und zusätzliche Materialien finden Sie unter [M01-3]({{ site.baseurl }}{% link _unit12/unit12-08_material.md %}).
 
