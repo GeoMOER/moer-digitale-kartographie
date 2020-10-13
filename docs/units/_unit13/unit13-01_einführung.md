@@ -20,7 +20,7 @@ Diese Übung richtet sich an die Studierenden des gymnasialen Lehramts Geographi
 
 Vor dem Hintergrund dieser Fragestellungen bietet diese Übung eine Einführung in das Arbeiten mit WebGIS und dessen implementation in die Bildungsstandards, Lehrplänen und Kerncurricula. Des Weiteren werden die von den Schüler/-innen erwerbaren Kompetenzbereiche illustriert. Anhand von WebGIS Anwendungen erfolgt eine Diskussion der technischen Möglichkeiten und Limitierungen als auch das didaktische Potenzial von WebGIS für die geographische Bildung im Fach Erdkunde.
 
-Das Ziel dieser Übung ist es, Lehramtsstudierenden einen einführenden Überblick über die Anwendungsmöglichkeiten und Grenzen von WebGIS im Erdkundeunterricht zu geben. Zu dieser Übung gibt es 2 Lerneinheiten (LE), 2 Arbeitsblätter (AB) sowie 4 Materialien (M), siehe linke Menüführung.
+Das Ziel dieser Übung ist es, Lehramtsstudierenden einen einführenden Überblick über die Anwendungsmöglichkeiten und Grenzen von WebGIS im Erdkundeunterricht zu geben. Zu dieser Übung gibt es je 2 Lerneinheiten (LE), 2 Arbeitsblätter (AB) sowie 2 Materialseiten (M), siehe linke Menüführung.
 
 ## Voraussetzung zur Ausführung der Übung
 

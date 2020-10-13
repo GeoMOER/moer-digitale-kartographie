@@ -1,20 +1,20 @@
 ---
-title: Einführung | Medien
+title: Lerneinheit | Anwendung
 toc: false
 header:
   image: /assets/images/01-splash.jpg
   image_description: "John Snows "
   caption: "Map: [**Dr. John Snow**](https://de.wikipedia.org/wiki/John_Snow_(Mediziner)) [Wellcome Library via wikimedia](https://w.wiki/QtV)"
 ---
-***Eine kurze Einführung in die Medienkompetenz unter geographischer Perspektive.***
-<!--more-->
+## Inhalte
 
-Am Ende des Abschnitts sollten Sie in der Lage sein
-  * die Bedeutung von Medien für Unterricht zu reflektieren,
-  * Medien im Kontext von Geographieunterricht einordnen zu können,
-  * Medien in den Kontexten von Medienkompetenz, räumlichen Orientierungskompetenz und Kartenkompetenz zu erläutern.
+Dieses Lernmodul beinhaltet die praktische Anwendung anhand der Arbeitsblätter [AB01: Die EU und die Osterweiterung - eine Erfolgsstory?]({{ site.baseurl }}{% link _unit13/unit13-05_arbeitsblatt.md %}) und [AB02: Mediendidaktische Analyse]({{ site.baseurl }}{% link _unit13/unit13-06_arbeitsblatt.md %}).
 
-{% include video id="C0V2zejaTz4" provider="youtube" %}
+## Lernergebnisse und Kompetenzen
 
-## Folien der Videos als PDF
-{% include pdf pdf="MOER-MK_Slides_01_-_Medien.pdf" %}
+Nach Abschluss der Übung können Sie
+
+* unterschiedliche WebGIs Anwendungen mediendidaktisch analysieren.
+* eine WebGIS Anwendung im Unterricht einsetzen
+
+Viel Erfolg!
