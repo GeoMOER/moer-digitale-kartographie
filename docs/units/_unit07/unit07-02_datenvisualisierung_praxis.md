@@ -47,7 +47,7 @@ mit T als in diesem Falle die maximale Lufttemperatur in Grad Celsius.
 
 Im Rahmen dieser Aufgabe können Sie anstelle der Temperatur um 14:00 Uhr die mittlere maximale Lufttemperatur sowie anstelle der Luftfeuchte um 14:00 Uhr die mittlere Luftfeuchte verwenden.
 
-Die Haude-Faktoren sind in der nachfolgenden Tabelle dargestellt [Hupfer et al. (2006)](https://www.zotero.org/envin_umr/items/2XPZN65N){:target="_blank"}:
+Die Haude-Faktoren sind in der nachfolgenden Tabelle dargestellt [Chmielewski et al. (1998)](https://www.zotero.org/envin_umr/items/2XPZN65N){:target="_blank"}:
 
 Januar | 0,20 |
 Februar | 0,20 |

@@ -28,7 +28,7 @@ Die zur Auswahl stehenden Karten sind (Materialsammlung des Kurses):
 Kartenzusammenstellung **09-1-2: Feuer (Link führt ins Nichts)**
 Kartenzusammenstellung **09-1-4: Brasilien (Link führt ins Nichts)**
 
-Als genereller Einstieg in die reflexive Kartenarbeit können die folgenden Leitfragen angesehen werden, die eine ergänzte Auswahl der bei [Gryl (2014)](https://www.zotero.org/envin_umr/collections/AFNZTF2D/items/IS42J466/item-details){:target="_blank"}(**hinterlegte Datei ist kostenpflichtig!!**) zu findenden Zusammenstellung sind:
+Als genereller Einstieg in die reflexive Kartenarbeit können die folgenden Leitfragen angesehen werden, die eine ergänzte Auswahl der bei [Gryl (2014)](https://www.zotero.org/envin_umr/collections/AFNZTF2D/items/IS42J466/item-details){:target="_blank"} zu findenden Zusammenstellung sind:
 
   * Was zeigt die Karte?
   * Wie ist die Darstellung?
