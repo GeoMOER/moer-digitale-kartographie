@@ -1,24 +1,33 @@
 ---
-title: Einführung | Geoweb und reflexive Kartenarbeit
+title: Einführung | WebGIS im Unterricht
 toc: false
 header:
   image: /assets/images/01-splash.jpg
   image_description: "John Snows "
   caption: "Map: [**Dr. John Snow**](https://de.wikipedia.org/wiki/John_Snow_(Mediziner)) [Wellcome Library via wikimedia](https://w.wiki/QtV)"
 ---
-***Eine kurze Einführung in kartographische Materialien und GeoWeb-Anwendungen.***
+***WebGIS im Unterricht – Hintergrund, curriculare Einbettung und Praxisanwendungen.***
 <!--more-->
 
-In jedem Lehrplan und Kerncurriculum für das Fach Erdkunde hat im arbeitsmethodischen Bereich die Kartenarbeit und die Auswertung von Informationen aus unterschiedlichen Medien einen herausgehobenen Stellenwert. Vor diesem Hintergrund adressiert diese Übung das vielfältige kartographischen Material im Internet und die unterschiedlichen geomedialen Anwendungen im GeoWeb. Diese werden hinsichtlich des Potentials für die geographische Bildung im Fach Erdkunde analysiert und reflektiert.
+Diese Übung richtet sich an die Studierenden des gymnasialen Lehramts Geographie. Sie ist die dritte von vier lehramtsspezifischen Übungen im Rahmen der Veranstaltung „Topographische und thematische Kartographie“ (Modul GeoL3-6: Methoden der Geographie).
 
-Das generelle Ziel dieser Übung ist, dass Sie
+## Beschreibung
 
-  * einen Überblick über die vielfältigen kartographischen Materialien und GeoWeb-Anwendungen erhalten,
-  * kartographischen Materialien und GeoWeb-Anwendungen mediendidaktisch analysieren können,
-  * reflexive Kartenarbeit kennen lernen
-  
-Die reflexive Kartenarbeit ist ein wichtiges Instrument für einen Geographieunterricht, der Schüler/-innen in ihrer Mündigkeit fördern soll. 
+* Was ist überhaupt ein GIS bzw. WebGIS?
+* Welche Kompetenzen können vermittelt werden?
+* Welche konkreten WebGIS Anwendungen existieren?
+* Wie können WebGIS Anwendungen im Unterricht verwendet werden?
 
-Zu dieser Übung gibt es eine [Lerneinheit (LE)]({{ site.baseurl }}{% link _unit10/unit10-02_lerneinheit.md %}), ein [Arbeitsblatt (AB)]({{ site.baseurl }}{% link _unit10/unit10-03_arbeitsblatt.md %}) und zwei [Materialseiten M01]({{ site.baseurl }}{% link _unit10/unit10-04_material.md %}) und [M02]({{ site.baseurl }}{% link _unit10/unit10-05_material.md %}) (siehe auch linke Menüführung).
+Vor dem Hintergrund dieser Fragestellungen bietet diese Übung eine Einführung in das Arbeiten mit WebGIS und dessen implementation in die Bildungsstandards, Lehrplänen und Kerncurricula. Des Weiteren werden die von den Schüler/-innen erwerbaren Kompetenzbereiche illustriert. Anhand von WebGIS Anwendungen erfolgt eine Diskussion der technischen Möglichkeiten und Limitierungen als auch das didaktische Potenzial von WebGIS für die geographische Bildung im Fach Erdkunde.
 
-Viel Spaß beim Erkunden und Analysieren - Los geht’s!
+Das Ziel dieser Übung ist es, Lehramtsstudierenden einen einführenden Überblick über die Anwendungsmöglichkeiten und Grenzen von WebGIS im Erdkundeunterricht zu geben. Zu dieser Übung gibt es je 2 Lerneinheiten (LE), 2 Arbeitsblätter (AB) sowie 2 Materialseiten (M), siehe linke Menüführung.
+
+## Voraussetzung zur Ausführung der Übung
+
+Damit Sie diese Übung umsetzen können, benötigen Sie
+
+* Rechner mit Internetanschluss in ausreichender Anzahl (Einzel-,Partner- oder Kleingruppenarbeit)
+* aktiviertes JavaScript
+* Pop-up-Fenster müssen erlaubt sein
+* Bitte nutzen Sie keine Tablets oder Smartphones für diese Übung, da hierauf die Bedienung der Anwendungen eher ungünstig ist.
+

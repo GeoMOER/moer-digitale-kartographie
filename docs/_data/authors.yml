@@ -16,6 +16,16 @@
   avatar           : "/assets/images/dorsch.jpg"
   email            : "dorsch@geo.uni-frankfurt.de"
   home             : "https://www.uni-frankfurt.de/45862947/Kurzportrait"
+- harnischmacher:
+  name             : "Stefan Harnischmacher"
+  avatar           : "/assets/images/harnischmacher.jpg"
+  email            : "stefan.harnischmacher@geo.uni-marburg.de"
+  home             : "https://www.uni-marburg.de/de/fb19/fachbereich/staff/pd-dr-stefan-harnischmacher"
+- kanwischer:
+  name             : "Detlef Kanwischer"
+  avatar           : "/assets/images/kanwischer.png"
+  email            : "kanwischer@em.uni-frankfurt.de"
+  home             : "https://www.uni-frankfurt.de/45719100/Prof__Dr__Detlef_Kanwischer"
 - langenohl:
   name             : "David Langenohl"
   avatar           : "/assets/images/langenohl1.jpg"

@@ -8,4 +8,4 @@ header:
 ***Hier finden Sie eine Übersicht über im Verlauf des Kurses häufig auftretende Fragen.***
 <!--more-->
 
-Die Seite wird regelmäßig aktualisiert.
+Diese Seite wird regelmäßig aktualisiert.

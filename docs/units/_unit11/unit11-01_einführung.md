@@ -1,24 +1,24 @@
 ---
-title: Einführung | Geocaching und räumliche Orientierung
+title: Einführung | Geoweb und reflexive Kartenarbeit
 toc: false
 header:
   image: /assets/images/01-splash.jpg
   image_description: "John Snows "
   caption: "Map: [**Dr. John Snow**](https://de.wikipedia.org/wiki/John_Snow_(Mediziner)) [Wellcome Library via wikimedia](https://w.wiki/QtV)"
 ---
-***Räumliche Ordnungssysteme und digitale Schnitzeljagd.***
+***Eine kurze Einführung in kartographische Materialien und GeoWeb-Anwendungen.***
 <!--more-->
 
-Die Lage eines Ortes mit Hilfe räumlicher Ordnungssysteme, wie z.B. des Gradnetzes, zu bestimmen, ist eine der klassischen Fähigkeiten, die der Geographieunterricht an Schülerinnen und Schüler vermitteln soll. Und vermutlich haben Sie selbst als Schüler*in oder angehende Lehrkraft erlebt, wie schwierig dies am Anfang fällt. Geocaching, also die digitale Schnitzeljagd mit Hilfe eines GPS-fähigen Endgeräts, bietet einen spielerischen und motivierenden Zugang zu dieser doch eher trockenen Thematik.
+In jedem Lehrplan und Kerncurriculum für das Fach Erdkunde hat im arbeitsmethodischen Bereich die Kartenarbeit und die Auswertung von Informationen aus unterschiedlichen Medien einen herausgehobenen Stellenwert. Vor diesem Hintergrund adressiert diese Übung das vielfältige kartographischen Material im Internet und die unterschiedlichen geomedialen Anwendungen im GeoWeb. Diese werden hinsichtlich des Potentials für die geographische Bildung im Fach Erdkunde analysiert und reflektiert.
 
-Nach Abschluss der Übung können Sie folgende Fragen beantworten:
-  * Was sind die Grundlagen des Geocaching?
-  * Welche konkreten Geocaching Anwendungen im WWW existieren?
-  * Welche Kompetenzen können mit Geocaching vermittelt werden?
-  * Wie kann Geocaching im Unterricht verwendet werden?
+Das generelle Ziel dieser Übung ist, dass Sie
 
-Zu dieser Übung gibt es ein [Arbeitsblatt (AB)]({{ site.baseurl }}{% link _unit11/unit11-02_arbeitsblatt.md %}) und eine [Materialseite M01]({{ site.baseurl }}{% link _unit11/unit11-03_material.md %}). 
+  * einen Überblick über die vielfältigen kartographischen Materialien und GeoWeb-Anwendungen erhalten,
+  * kartographischen Materialien und GeoWeb-Anwendungen mediendidaktisch analysieren können,
+  * reflexive Kartenarbeit kennen lernen
+  
+Die reflexive Kartenarbeit ist ein wichtiges Instrument für einen Geographieunterricht, der Schüler/-innen in ihrer Mündigkeit fördern soll. 
 
-## Präsentation
+Zu dieser Übung gibt es eine [Lerneinheit (LE)]({{ site.baseurl }}{% link _unit11/unit11-02_lerneinheit.md %}), ein [Arbeitsblatt (AB)]({{ site.baseurl }}{% link _unit11/unit11-03_arbeitsblatt.md %}) und zwei [Materialseiten M01]({{ site.baseurl }}{% link _unit11/unit11-04_material.md %}) und [M02]({{ site.baseurl }}{% link _unit11/unit11-05_material.md %}) (siehe auch linke Menüführung).
 
-Hier [Prästentation](http://foc.neu.geomedienlabor.de/doku.php?id=courses:studierende:ba:ub-kartographie:geocaching:description){:target="_blank"} einbinden.
+Viel Spaß beim Erkunden und Analysieren - Los geht’s!

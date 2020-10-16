@@ -22,7 +22,7 @@ feature_row_ilos:
 {% include feature_row id="feature_row_intro" type="center" %}
 
 ## Allgemeines 
-Medien spielen eine große Rolle in der Geographie. Sie bilden die Basis für den Erkenntnisgewinn in der Forschung und dienen gleichzeitig als Kommunikationsmittel. Medien sind damit in erster Linie kein pädagogisches Element, sondern fester Bestandteil einer fachlichen Auseinandersetzung mit einem Thema. Deshalb stellt die fachlich begründete Auswahl und der themenspezifische Einsatz von Medien eine wichtige Kernkompetenz von Lehrer/innen für die Planung eines authentischen Fachunterrichts dar.
+Medien spielen eine große Rolle in der Geographie. Sie bilden die Basis für den Erkenntnisgewinn in der Forschung und dienen gleichzeitig als Kommunikationsmittel. Medien sind damit in erster Linie kein pädagogisches Element, sondern fester Bestandteil einer fachlichen Auseinandersetzung mit einem Thema. Deshalb stellt die fachlich begründete Auswahl und der themenspezifische Einsatz von Medien eine wichtige Kernkompetenz von Lehrer*innen für die Planung eines authentischen Fachunterrichts dar.
 
 ## Lernziele
 Am Ende des Kurses sollen Sie in der Lage sein
@@ -42,25 +42,21 @@ Der Kurs ist primär für Studierende unserer Präsenzveranstaltung gedacht, eig
   
 [**3. Topographische Karten**]({{ site.baseurl }}{% link _unit03/unit03-01_topo_karten.md %}) - Kartentypen, Inhalte topographischer Karten, Koordinaten und Gitternetz, Nordrichtungen, Reliefdarstellung, Konstruktion eines Höhenprofils
   
-[**4. Räumliche Orientierung**]({{ site.baseurl }}{% link _unit04/unit04-01_orientierung.md %}) - Verortung, Vermessung, Orientierung
+[**4. Thematische Karten**]({{ site.baseurl }}{% link _unit04/unit04-01_thematische_karten.md %}) - Typen thematischer Karten, Sach- und Raumbezug von Geodaten, Visualisierung von Geodaten
   
-[**5. Thematische Karten**]({{ site.baseurl }}{% link _unit05/unit05-01_thematische_karten.md %}) - Typen thematischer Karten, Sach- und Raumbezug von Geodaten, Visualisierung von Geodaten
-  
-[**6. Reflexive Kartenkompetenz**]({{ site.baseurl }}{% link _unit06/unit06-01_kartenkompetenz.md %}) - Medienperformanz, Modelle und Abbildungen als Kommunikations- und Deutungselement
-  
-[**7. Datenvisualisierung**]({{ site.baseurl }}{% link _unit07/unit07-01_datenvisualisierung.md %}) - Graphische Repräsentation von Werten
-  
-[**8. Virtuelle Globen**]({{ site.baseurl }}{% link _unit08/unit08-01_globen.md %}) - Web-Mapping Angebot, Virtuelle Exkursionen, E-Learning
-  
-[**9. Modelle**]({{ site.baseurl }}{% link _unit09/unit09-01_modelle.md %}) - Wissensgenerierung und Lernmedium
+[**5. Reflexive Kartenkompetenz**]({{ site.baseurl }}{% link _unit05/unit05-01_kartenkompetenz.md %}) - Medienperformanz, Modelle und Abbildungen als Kommunikations- und Deutungselement
 
-[**10. GeoWeb und reflexive Kartenarbeit**]({{ site.baseurl }}{% link _unit10/unit10-01_einführung.md %}) - Materialien, Anwendungen, Analyse und Reflexion von GeoWeb-Anwendungen
+[**6. Datenvisualisierung**]({{ site.baseurl }}{% link _unit06/unit06-01_datenvisualisierung.md %}) - Graphische Repräsentation von Werten
+  
+[**7. Modelle**]({{ site.baseurl }}{% link _unit07/unit07-01_modelle.md %}) - Wissensgenerierung und Lernmedium
 
-[**11. Geocaching und räumliche Orientierung**]({{ site.baseurl }}{% link _unit11/unit11-01_einführung.md %}) - Grundlagen, Anwendungen, Kompetenzen
+[**8. Geocoaching und räumliche Orientierung**]({{ site.baseurl }}{% link _unit08/unit08-01_einführung.md %}) - Materialien, Anwendungen, Analyse und Reflexion von GeoWeb-Anwendungen
+
+[**9. Digitale Globen im Unterricht**]({{ site.baseurl }}{% link _unit09/unit09-01_einführung.md %}) - Grundlagen, Anwendungen, Kompetenzen
  
-[**12. Digitale Globen im Unterricht**]({{ site.baseurl }}{% link _unit12/unit12-01_einführung.md %}) - Möglichkeiten, Mehrwert, Grenzen
+[**10. WebGIS im Unterricht**]({{ site.baseurl }}{% link _unit10/unit10-01_einführung.md %}) - Möglichkeiten, Mehrwert, Grenzen
 
-[**13. WebGIS im Unterricht**]({{ site.baseurl }}{% link _unit13/unit13-01_einführung.md %}) - Aufbau und Funktionen von WebGIS-Anwendungen
+[**11. GeoWeb und reflexive Kartenarbeit**]({{ site.baseurl }}{% link _unit11/unit11-01_einführung.md %}) - Aufbau und Funktionen von WebGIS-Anwendungen
 
 ## Studien- und Prüfungsleistung
 

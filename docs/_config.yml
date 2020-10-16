@@ -100,15 +100,6 @@ collections:
   unit11:
     output: true
     permalink: /:collection/:title.html
-  unit12:
-    output: true
-    permalink: /:collection/:title.html
-  unit13:
-    output: true
-    permalink: /:collection/:title.html
-  unit14:
-    output: true
-    permalink: /:collection/:title.html
   unit99:
     output: true
     permalink: /:collection/:title.html
@@ -150,7 +141,7 @@ defaults:
       path: ""
       type: unit04
     values:
-      category: "04 Räumliche Orientierung"
+      category: "04 Thematische Karten"
       tags: "Unit 04"
       layout: single
       sidebar:
@@ -160,57 +151,57 @@ defaults:
       path: ""
       type: unit05
     values:
-      category: "05 Thematische Karten"
+      category: "05 Reflexive Kartenkompetenz"
       tags: "Unit 05"
       layout: single
       sidebar:
         nav: "course_unit"
-  # unit06
+   # unit06
   - scope:
       path: ""
       type: unit06
     values:
-      category: "06 Reflexive Kartenkompetenz"
+      category: "06 Datenvisualisierung"
       tags: "Unit 06"
       layout: single
       sidebar:
         nav: "course_unit"
-   # unit07
+ # unit07
   - scope:
       path: ""
       type: unit07
     values:
-      category: "07 Datenvisualisierung"
+      category: "07 Modelle"
       tags: "Unit 07"
       layout: single
       sidebar:
-        nav: "course_unit"
- # unit08
+        nav: "course_unit"      
+  # unit08
   - scope:
       path: ""
       type: unit08
     values:
-      category: "08 Virtuelle Globen"
+      category: "08 Geocoaching und räumliche Orientierung"
       tags: "Unit 08"
       layout: single
       sidebar:
-        nav: "course_unit"      
- # unit09
+        nav: "course_unit"
+  # unit09
   - scope:
       path: ""
       type: unit09
     values:
-      category: "09 Modelle"
+      category: "09 Digitale Globen im Unterricht"
       tags: "Unit 09"
       layout: single
       sidebar:
-        nav: "course_unit"      
+        nav: "course_unit"
   # unit10
   - scope:
       path: ""
       type: unit10
     values:
-      category: "10 Geoweb und reflexive Kartenarbeit"
+      category: "10 WebGIS im Unterricht"
       tags: "Unit 10"
       layout: single
       sidebar:
@@ -220,28 +211,8 @@ defaults:
       path: ""
       type: unit11
     values:
-      category: "11 Geocaching und räumliche Orientierung"
+      category: "11 GeoWeb und reflexive Kartenarbeit"
       tags: "Unit 11"
-      layout: single
-      sidebar:
-        nav: "course_unit"
-  # unit12
-  - scope:
-      path: ""
-      type: unit12
-    values:
-      category: "12 Digitale Globen im Unterricht"
-      tags: "Unit 12"
-      layout: single
-      sidebar:
-        nav: "course_unit"
-  # unit13
-  - scope:
-      path: ""
-      type: unit13
-    values:
-      category: "13 WebGIS im Unterricht"
-      tags: "Unit 13"
       layout: single
       sidebar:
         nav: "course_unit"

@@ -1,46 +1,64 @@
 ---
-title: Lerneinheit | Kartographie für alle und alle für Kartographie
+title: Lerneinheit | WebGIS Grundlagen
 toc: false
 header:
   image: /assets/images/01-splash.jpg
   image_description: "John Snows "
   caption: "Map: [**Dr. John Snow**](https://de.wikipedia.org/wiki/John_Snow_(Mediziner)) [Wellcome Library via wikimedia](https://w.wiki/QtV)"
+  
+panel5:  
+  - url: http://foc.neu.geomedienlabor.de/doku.php?id=courses:studierende:ba:ub-kartographie:webgis:lerneinheit:le01
+    image_path: https://2012books.lardbucket.org/books/geographic-information-system-basics/section_08/5e0adb92da29fb258470bfeb5265cc55.jpg
+    title: "Grafik 2 - Frankfurt Open Coursware"
+    alt: "Grafik 2 - Frankfurt Open Coursware"
 ---
 
-Die Lerneinheit führt vor dem Hintergrund des GeoWeb in die Übung ein. Sie bietet einen Überblick über die unterschiedlichen GeoWeb-Anwendungen und skizziert deren gesellschaftliche und bildungspraktische Implikationen.
+Die Lerneinheit führt vor dem Hintergrund des WebGIS in die Übung ein. Sie bietet einen Überblick über die unterschiedlichen WebGIS Anwendungen und skizziert deren Aufbau. 
 
 ## Inhalte
 
-Sie werden sich mit den vielfältigen kartographischen Angeboten im GeoWeb vertraut machen und die Angebote und Anwendungen mittels eines mediendidaktischen Fragenkatalogs analysieren (siehe AB01). Abschließend erläutern Sie Ihre Ergebnisse stichpunktartig und analysieren die unterschiedlichen Angebote und Anwendungen vergleichend.
+Sie werden sich mit den Definitionen von GIS und WebGIS vertraut machen und die Grundlagen eines GIS kennenlernen.
+Lernergebnisse und Kompetenzen
 
-## Voraussetzungen für diese Lerneinheit
+## Nach Abschluss der Übung können Sie
 
-  * Internetzugang und Web-Browser
-  * [AB01: Mediendidaktische Analyse]({{ site.baseurl }}{% link _unit10/unit10-03_arbeitsblatt.md %})
-  * [M01: Kartographische Angebote im Netz und GeoWeb-Anwendungen]({{ site.baseurl }}{% link _unit10/unit10-04_material.md %})
-  * [M02: Reflexive Kartenarbeit]({{ site.baseurl }}{% link _unit10/unit10-05_material.md %})
-  
-## Lernergebnisse und Kompetenzen
+* erläutern was ein GIS bzw. WebGIS ist,
+* den Aufbau eines GIS skizzieren,
+* WebGIS Anwendungen bennenen.
 
-Nach Abschluss der Übung können Sie
+## Definitionen
 
-  * erläutern was das GeoWeb ist,
-  * verschiedene kartographische Materialien und GeoWeb-Anwendungen benennen und
-  * diese mediendidaktisch analysieren und kritisch reflektieren.
+**GeoInformationsSystem (GIS)**
 
-## Kartographie für alle und alle für Kartographie
+„Ein Großteil der Daten, mit denen wir täglich zu tun haben, weist einen räumlichen Bezug auf. Die Erfassung, Speicherung, Verwaltung, Manipulation, Analyse und Ausgabe von raumbezogenen Daten ist Aufgabe Geographischer Informationssysteme“ (Lang/Blaschke 2007:39). Ein GIS dient demnach der Dokumentation, Visualisierung und Analyse räumlicher Phänomene.
 
-Thematische und topographische Landkarten, die früher als Symbole der Macht galten, weil nur die Herrschenden hierzu Zugang hatten, sind heutzutage für jedermann zugänglich. Im Netz gibt es einerseits eine unendliche Anzahl an Archiven, die historische Karten zur Verfügung stellen. Andererseits haben digitale Karten und Globen, GIS und GPS einen festen Platz in unserem Alltag eingenommen. Insbesondere die Verknüpfung digitaler Globen mit Web 2.0-Anwendungen hat zur Entwicklung des Geoweb geführt.
+Diese sehr komplexe Definition von GIS ist im Unterricht nicht praktikabel, dient aber dem Hintergrundwissen der Lehrkraft. Demgemäß sollte im Unterricht auf folgende Definition zurückgegriffen werden:
 
-Hierbei werden georeferenzierte Daten über einen Geobrowser (z.B. Google Earth) mit anderen Medien, wie z.B. Texten, Daten, Bildern und Videos, verknüpft, um eigene thematische Karten zu erstellen. Hierbei ist der Nutzer gleichzeitig Produzent und Konsument von Karten. Einige Beispiel für solche Karten-Mash-Ups finden Sie hier: 
+„Ein System zum Erfassen, verarbeiten und Präsentieren raumbezogener Daten mittels einer geeigneten Software„(Züri 2008:8).
 
-  * [http://urbanshit.de/gefahrengebiet-hamburg-karten-mash-ups](http://urbanshit.de/gefahrengebiet-hamburg-karten-mash-ups){:target="_blank"} (**nicht erreichbar**)
-  * [http://www.earthalbum.com/](http://www.earthalbum.com/){:target="_blank"} (**nicht erreichbar**)
-  * [http://www.signalmap.com/](http://www.signalmap.com/){:target="_blank"} (**sehr fragwürdig, definitiv falsch**)
-  * [http://www.geogreeting.com/](http://www.geogreeting.com/){:target="_blank"}
-  * [http://www.priceofweed.com](http://www.priceofweed.com){:target="_blank"}
-  * [http://www.skatemap.de/](http://www.skatemap.de/){:target="_blank"}
+**WebGIS**
 
- Zudem ermöglicht die Miniaturisierung digitaler Endgeräte (Tablets, Smartphones), dass die beschriebenen Anwendungen heutzutage für (fast) jeden (fast) überall zur Verfügung stehen und dass weltweit Millionen von Menschen digitale Karten und Geomedien nutzen.
+„Unter dem Begriff WebGIS wird im Allgemeinen ein Geoinformationssystem (GIS) verstanden, dessen Funktion teilweise auf der Basis der Netzwerktechnologie (Internet, Intranet) basiert. Synonym wird oftmals WebGIS mit dem Termini GIS online, Internet-GIS, NetGIS, Distributed GIS oder Internet Mapping angewandt.“ ([GIS Wiki](http://giswiki.org/wiki/WebGIS){:target="_blank"})
 
-Das Phänomen GeoWeb ist einerseits gekennzeichnet von der Transformation der Nutzung und Gestaltung einfacher Papierkarten hin zu multimedialen Softwareanwendungen. Andererseits dienten zu früheren Zeiten Karten und kartographische Darstellungen der reinen Präsentation oder visuellen Dekoration von räumlichen Strukturen und Phänomenen, während sie heutzutage auch zur Exploration und zur Analyse von Mustern, Strukturen und Trends in Räumen herangezogen werden. Hiermit kommt es auch zu einem veränderten Status der Kartographie in der Gesellschaft und im Bildungsbereich. Dieser gesamtgesellschaftlichen Entwicklung sollte auch im Unterricht Rechnung getragen werden, zumal das GeoWeb ein großes Potential hat, um einen zeitgemäßen medientechnisch angepassten Erdkundeunterricht zu gestalten. 
+## Aufbau GIS
+
+Geoinformationssysteme dienen der Visualisiserung raumgezogener Daten. Die Daten liegen in der Regel als Punkte, Linien und Flächendaten (Polygone) vor, deren Analyse erfolgt mittels logischer („AND“, „OR“,…) und räumlicher Abfragen („WHERE“,…) und mathematischer Berechnungen (<,>,=,…). Die Daten werden durch einzelne Schichten (Layerprinzip) einzeln oder gemeinsam visualisiert.
+
+{% include gallery id="panel5"  caption= "Frankfurt Open Coursware" %}
+
+
+## WebGIS Dienste
+
+* Diercke WebGIS
+
+* WebGIS Westfalen
+
+* webgis-schule
+
+* Saechsischer Bildungsserver
+
+## Literatur
+
+Lang, S.; Blaschke, T. (2007): Landschaftsanalyse mit GIS. 20 Tabellen. Stuttgart: Ulmer (UTB, 8347 : Geowissenschaften, Biologie, Ökologie, Agrar- und Forstwissenschaften).
+
+Zürl, B. (2008): „GIS -was ist das?“ Eine GIS-Einstiegsstunde mit der Fragestellung: Wie ﬁndet man den Weg zum Urlaubsort? ln: Geographie heute: GIS für Einsteiger. Heft 233, S. B-11.
