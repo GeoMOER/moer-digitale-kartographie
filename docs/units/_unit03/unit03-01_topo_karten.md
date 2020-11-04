@@ -18,9 +18,9 @@ Am Ende der Sitzung sollten Sie in der Lage sein
   * Höhenlinien auf topographischen Karten richtig zu deuten,
   *auf der Grundlage von Höhenlinien Geländeprofile zu konstruieren.
 
-{% include video id="C0V2zejaTz4" provider="youtube" %}
+{% include video id="1e-0i2hBtzWKfKmXmf7N3XKsmUKI02wAo" provider="google-drive" %}
 
-{% include video id="C0V2zejaTz4" provider="youtube" %}
+{% include video id="1WqfGBJQj73z9SH89SYOXVpgsZOlOmm6j" provider="google-drive" %}
 
 ## Folien der Videos als PDF
 {% include pdf pdf="MOER-MK_Slides_03_-_Geodaetisches_Datum_und_Koordinatensystem.pdf" %}

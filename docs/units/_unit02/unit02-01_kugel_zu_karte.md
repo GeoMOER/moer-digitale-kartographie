@@ -15,7 +15,7 @@ Am Ende des Abschnitts sollten Sie in der Lage sein
   * die Eigenschaften unterschiedlicher Kartenprojektionen zu erkennen,
   * einfache Kartenprojektionen selbst zu konstruieren.
 
-{% include video id="C0V2zejaTz4" provider="youtube" %}
+{% include video id="1_cBvb9mN7f9hxx8OP4gM55bqDubBcLzc" provider="google-drive" %}
 
 ## Folien der Videos als PDF
 {% include pdf pdf="MOER-MK_Slides_02_-_Kartenkonstruktion.pdf" %}

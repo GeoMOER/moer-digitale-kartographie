@@ -15,7 +15,7 @@ Am Ende der Sitzung sollten Sie in der Lage sein
   * in Abhängigkeit von den Objektmerkmalen eine geeignete thematische Karte auszuwählen,
   * unter Beachtung der Gestaltungsregeln selbständig eine thematische Karte zu konstruieren.
 
-{% include video id="C0V2zejaTz4" provider="youtube" %}
+{% include video id="1a6x2E-rNYKBoIpUjAAnaL3mEt5HJ0tBB" provider="google-drive" %}
 
 ## Folien der Videos als PDF
 {% include pdf pdf="MOER-MK_Folien_06_-_Thematische_Karten.pdf" %}

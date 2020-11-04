@@ -34,9 +34,7 @@ Thematische und topographische Landkarten, die früher als Symbole der Macht gal
 
 Hierbei werden georeferenzierte Daten über einen Geobrowser (z.B. Google Earth) mit anderen Medien, wie z.B. Texten, Daten, Bildern und Videos, verknüpft, um eigene thematische Karten zu erstellen. Hierbei ist der Nutzer gleichzeitig Produzent und Konsument von Karten. Einige Beispiel für solche Karten-Mash-Ups finden Sie hier: 
 
-  * [http://urbanshit.de/gefahrengebiet-hamburg-karten-mash-ups](http://urbanshit.de/gefahrengebiet-hamburg-karten-mash-ups){:target="_blank"} (**nicht erreichbar**)
-  * [http://www.earthalbum.com/](http://www.earthalbum.com/){:target="_blank"} (**nicht erreichbar**)
-  * [http://www.signalmap.com/](http://www.signalmap.com/){:target="_blank"} (**sehr fragwürdig, definitiv falsch**)
+  * [http://www.signalmap.com/](https://signalmaps.co.uk/){:target="_blank"}
   * [http://www.geogreeting.com/](http://www.geogreeting.com/){:target="_blank"}
   * [http://www.priceofweed.com](http://www.priceofweed.com){:target="_blank"}
   * [http://www.skatemap.de/](http://www.skatemap.de/){:target="_blank"}

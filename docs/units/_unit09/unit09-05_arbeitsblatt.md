@@ -55,4 +55,4 @@ Leitfragen:
 |Es gibt Materialien zum Selbstlernen; „Bedienungsanleitung“| | |
 {: .tablelines}
 
-**Kriterienliste verändert und ergänzt nach Bartels, I. (2010): Digitale Globen im Geographieunterricht. Eine empirische Studie in der Sekundarstufe I. Hannover. ([Masterthesis](http://www.didageo.uni-hannover.de/fileadmin/institut/Digitale_Globen_im_Geographieunterricht__Master_Thesis_.pdf){:target="_blank"})*
+**Kriterienliste verändert und ergänzt nach Bartels, I. (2010): Digitale Globen im Geographieunterricht. Eine empirische Studie in der Sekundarstufe I. Hannover.

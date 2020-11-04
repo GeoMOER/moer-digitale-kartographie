@@ -27,7 +27,7 @@ Zu dieser Übung gibt es ein [Arbeitsblatt (AB)]({{ site.baseurl }}{% link _unit
 
 ## Präsentation zum Thema Geocaching
 
-Hier [Prästentation](http://foc.neu.geomedienlabor.de/doku.php?id=courses:studierende:ba:ub-kartographie:geocaching:description){:target="_blank"} einbinden.
+{% include pdf pdf="Kartographie_Geocaching_20191128.pdf" %}
 
 ## Präsentation zum Thema Räumliche Orientierung
 

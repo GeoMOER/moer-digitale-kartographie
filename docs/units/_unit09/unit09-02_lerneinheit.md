@@ -21,11 +21,13 @@ Sollten Sie bislang noch nicht mit digitalen Globen, wie z. B. Google Earth oder
   * Digitale Geomedien als Lehr-/Lernmedien
   * Bedienung einzelner web-basierter, digitaler Globen (Google Maps, OpenStreetMap etc.).
 
-{% include video id="C0V2zejaTz4" provider="youtube" %}
+{% include video id="1eq6hBnll6C5YjopI-si1KmJZefpwSE3i" provider="google-drive" %}
 
+## Folien der Videos als PDF
 {% include pdf pdf="MOER-MK_Folien_09_-_Virtuelle_Globen.pdf" %}
 
-**Hier [Prästentation](http://foc.neu.geomedienlabor.de/doku.php?id=courses:studierende:ba:ub-kartographie:googleearth:lerneinheit:le01) einfügen** 
+{% include pdf pdf="Kartographie_DigGloben_20191128.pdf" %}
+
 
 Wie in den Präsentationen gezeigt, birgt die Arbeit mit digitalen Globen im Lerngeschehen gewisse Vor- und Nachteile. Zudem ist das didiaktische Potenzial digitaler Globen im Vergleich zum traditionellen Globus [M01-1]({{ site.baseurl }}{% link _unit09/unit09-06_material.md %}) nicht unumstritten. Eine lesenswerte Zusammenstellung in Form von zehn provokativen Thesen zu Virtuellen Globen im Geographieunterricht finden Sie [hier](http://foc.neu.geomedienlabor.de/lib/exe/fetch.php?media=courses:studierende:ba:ub-kartographie:googleearth:lerneinheit:scheidl_2009_thesen_googleearth.pdf){:target="_blank"}.
 

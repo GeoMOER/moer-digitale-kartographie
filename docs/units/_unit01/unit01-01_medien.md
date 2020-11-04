@@ -14,7 +14,7 @@ Am Ende des Abschnitts sollten Sie in der Lage sein
   * Medien im Kontext von Geographieunterricht einordnen zu können,
   * Medien in den Kontexten von Medienkompetenz, räumlichen Orientierungskompetenz und Kartenkompetenz zu erläutern.
 
-{% include video id="C0V2zejaTz4" provider="youtube" %}
+{% include video id="1lEP1vGPjLqhCvHvyG3Z4vgjai-MwBUkc" provider="google-drive" %}
 
 ## Folien der Videos als PDF
 {% include pdf pdf="MOER-MK_Slides_01_-_Medien.pdf" %}
