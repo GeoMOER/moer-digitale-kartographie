@@ -19,7 +19,7 @@ docs:
   - title: Ways out
     children:
       - title: "Kurseinheiten"
-        url: /_site/units.html
+        url: /units.html
       - title: "Zu ILIAS"
         url: https://ilias.uni-marburg.de/ilias.php?ref_id=1858892&cmdClass=ilrepositorygui&cmdNode=ts&baseClass=ilrepositorygui
       - title: "Zum OER"
