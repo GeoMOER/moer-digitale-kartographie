@@ -1,5 +1,5 @@
 ---
-title: Arbeitsblatt AB01-1 | Aralsee
+title: Arbeitsblatt AB01 | Aralsee
 toc: false
 header:
   image: /assets/images/01-splash.jpg
