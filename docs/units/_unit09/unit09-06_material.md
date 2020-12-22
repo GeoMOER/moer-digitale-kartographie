@@ -1,5 +1,5 @@
 ---
-title: Material | Hauptanwendungsbereiche eines Globus
+title: Material M01-1 | Hauptanwendungsbereiche eines Globus
 toc: false
 header:
   image: /assets/images/01-splash.jpg

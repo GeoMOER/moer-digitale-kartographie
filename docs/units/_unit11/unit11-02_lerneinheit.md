@@ -1,5 +1,5 @@
 ---
-title: Lerneinheit | Kartographie für alle und alle für Kartographie
+title: Lerneinheit LE01 | Kartographie für alle und alle für Kartographie
 toc: false
 header:
   image: /assets/images/01-splash.jpg

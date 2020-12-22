@@ -1,5 +1,5 @@
 ---
-title: Material | Google Earth im Unterricht
+title: Material M01-2 | Google Earth im Unterricht
 toc: false
 header:
   image: /assets/images/01-splash.jpg

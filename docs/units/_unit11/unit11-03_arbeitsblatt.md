@@ -1,5 +1,5 @@
 ---
-title: Arbeitsblatt | Mediendidaktische Analyse
+title: Arbeitsblatt AB01 | Mediendidaktische Analyse
 toc: false
 header:
   image: /assets/images/01-splash.jpg

@@ -18,7 +18,7 @@ Die Lerneinheit führt in die curriculare Einbindung von WebGIS ein. Sie bietet 
 
 ## Inhalte
 
-Sie werden sich mit der curricularen Implementation von WebGIS in den DGfG Bildungsstandards und den Kerncurricula von Hessen vertraut machen und Kompentenz- und Anforderungsbereiche ermitteln, die anhand von WebGIS Anwendungen vermittelt werden können.
+Sie werden sich mit der curricularen Implementation von WebGIS in den DGfG Bildungsstandards und den Kerncurricula von Hessen vertraut machen und Kompetenz- und Anforderungsbereiche ermitteln, die anhand von WebGIS Anwendungen vermittelt werden können.
 
 ## Lernergebnisse und Kompetenzen
 

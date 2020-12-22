@@ -1,5 +1,5 @@
 ---
-title: Lerneinheit | Einführung Digitale Globen
+title: Lerneinheit LE01 | Einführung Digitale Globen
 toc: false
 header:
   image: /assets/images/01-splash.jpg

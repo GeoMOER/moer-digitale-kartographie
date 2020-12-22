@@ -1,5 +1,5 @@
 ---
-title: Arbeitsblatt | Google Earth vs. Diercke Globus
+title: Arbeitsblatt AB02-1 | Google Earth vs. Diercke Globus
 toc: false
 header:
   image: /assets/images/01-splash.jpg

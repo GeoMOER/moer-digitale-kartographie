@@ -1,5 +1,5 @@
 ---
-title: Material | Weitere Materialien und Daten
+title: Material M01-3 | Weitere Materialien und Daten
 toc: false
 header:
   image: /assets/images/01-splash.jpg

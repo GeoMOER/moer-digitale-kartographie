@@ -1,5 +1,5 @@
 ---
-title: Material | Kartographische Angebote im Netz und GeoWeb-Anwendungen
+title: Material M01 | Kartographische Angebote im Netz und GeoWeb-Anwendungen
 toc: false
 header:
   image: /assets/images/01-splash.jpg

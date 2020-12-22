@@ -26,7 +26,7 @@ Zur Annäherung an den Modellbegriff clustern wir die Rückmeldungen zu den folg
 
 Stellen Sie Ihre Antworten im Plenum vor und clustern Sie die Ergebnisse.
 
-## Modelle im Kernkurriculum
+## Modelle im Kerncurriculum
 
 Suchen Sie in den hessischen Kerncurricula für das Fach Erdkunde der [Sekundarstufe](https://kultusministerium.hessen.de/schulsystem/bildungsstandards-kerncurricula-und-lehrplaene/kerncurricula/sekundarstufe-i/erdkunde){:target="_blank"} und der [Oberstufe](https://kultusministerium.hessen.de/schulsystem/bildungsstandards-kerncurricula-und-lehrplaene/kerncurricula/gymnasiale-oberstufe-4){:target="_blank"} nach dem Begriff Modell (bzw. Varianten wie Modellierung).
 

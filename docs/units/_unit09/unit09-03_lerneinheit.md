@@ -1,5 +1,5 @@
 ---
-title: Lerneinheit | Digitale Globen im Unterricht
+title: Lerneinheit LE02 | Digitale Globen im Unterricht
 toc: false
 header:
   image: /assets/images/01-splash.jpg
