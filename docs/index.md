@@ -31,9 +31,6 @@ Am Ende des Kurses sollen Sie in der Lage sein
 * generelle Eigenschaften von Mediengruppen zu diskutieren,
 * konkrete Medienbeispiele reflexiv zu analysieren.
 
-## Kursmerkmale
-Der Kurs ist primär für Studierende unserer Präsenzveranstaltung gedacht, eignet sich in gewissem Maße aber auch zum Selbststudium.
-
 ## Kursinhalte
 
 [**1. Medien**]({{ site.baseurl }}{% link _unit01/unit01-01_medien.md %}) - Medien im Geographieunterricht, Medienkompetenz, räumliche Orientierungskompetenz, Kartenkompetenz 
@@ -58,25 +55,6 @@ Der Kurs ist primär für Studierende unserer Präsenzveranstaltung gedacht, eig
 
 [**11. GeoWeb und reflexive Kartenarbeit**]({{ site.baseurl }}{% link _unit11/unit11-01_einführung.md %}) - Aufbau und Funktionen von WebGIS-Anwendungen
 
-## Studien- und Prüfungsleistung
-
-### Studienleistung
-
-1. Gestaltung einer Sitzungseinheit
-  * die Gestaltung der Sitzungseinheit umfasst die Präsentation der Lösung einer Übungsaufgabe, die zwei Wochen vorher gestellt wurde
-  * die Präsentation hat einen Umfang von 30 bis 45 Minuten mit anschließender Diskussion
-  * zusätzlich ist ein kurzes Skript/Handout mit der Lösung zu erstellen und zu verteilen
-  
-2. Review einer Sitzungseinheit, die durch Dritte gestaltet wird
-  * Review einer Sitzungsgestaltung für ein weiteres Thema
-  * der Review-Gruppe wird eine Woche vor der Präsentation die Lösungsskizze zu Verfügung gestellt
-  * Ergebnisse des Peer-Reviews müssen von den jeweiligen Gruppen berücksichtigt werden
-
-Die Studienleistung findet in Gruppen statt.
-
-### Prüfungsleistung
-
-Klausur (individuelle Leistung) mit theoretischen und praktischen Aufgaben zum Inhalt des Moduls.
 
 ## Team
 
