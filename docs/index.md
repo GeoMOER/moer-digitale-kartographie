@@ -50,7 +50,7 @@ Der Kurs ist primär für Studierende unserer Präsenzveranstaltung gedacht, eig
   
 [**7. Modelle**]({{ site.baseurl }}{% link _unit07/unit07-01_modelle.md %}) - Wissensgenerierung und Lernmedium
 
-[**8. Geocoaching und räumliche Orientierung**]({{ site.baseurl }}{% link _unit08/unit08-01_einführung.md %}) - Materialien, Anwendungen, Analyse und Reflexion von GeoWeb-Anwendungen
+[**8. Geocaching und räumliche Orientierung**]({{ site.baseurl }}{% link _unit08/unit08-01_einführung.md %}) - Materialien, Anwendungen, Analyse und Reflexion von GeoWeb-Anwendungen
 
 [**9. Digitale Globen im Unterricht**]({{ site.baseurl }}{% link _unit09/unit09-01_einführung.md %}) - Grundlagen, Anwendungen, Kompetenzen
  

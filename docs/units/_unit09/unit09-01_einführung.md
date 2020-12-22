@@ -11,7 +11,7 @@ header:
 
 Was ist beim Einsatz digitaler Globen als Lernmedien im Unterricht zu beachten? Vor dem Hintergrund dieser Fragestellungen bietet diese Übung eine Einführung in das Arbeiten mit digitalen Globen. Anhand des Fallbeispiels „Aralsee – Wasser. Wüste. Wirtschaft“, werden sowohl die technische Möglichkeiten und Limitierungen als auch das didaktische Potenzial digitaler Geomedien für die geographische Bildung im Fach Erdkunde analysiert und reflektiert.
 
-Das Ziel dieser Übung ist es, Lehramtsstudierenden einen einführenden Überblick über die Anwendungsmöglichkeiten und Grenzen digitaler Globen im Erdkundeunterricht zu geben. Anhand der vergleichenden Anwendung von Google Earth und Diercke Globus Online werden fachlich-methodische, mediendidaktische sowie technische Aspekte im Umgang mit digitalen Geomedien aufgezeigt und diskutiert. Zu dieser Übung gibt es zwei Lerneinheiten (LE), drei Arbeitsblätter (AB) sowie drei Materialien (M), siehe linke Menüführung.
+Das Ziel dieser Übung ist es, Lehramtsstudierenden einen einführenden Überblick über die Anwendungsmöglichkeiten und Grenzen digitaler Globen im Erdkundeunterricht zu geben. Anhand der vergleichenden Anwendung von Google Earth und Diercke Globus Online werden fachlich-methodische, mediendidaktische sowie technische Aspekte im Umgang mit digitalen Geomedien aufgezeigt und diskutiert. Zu dieser Übung gibt es zwei Lerneinheiten (LE), zwei Arbeitsblätter (AB) sowie drei Materialien (M), siehe linke Menüführung.
 
 ## Voraussetzung zur Ausführung der Übung
 

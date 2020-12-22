@@ -23,7 +23,7 @@ Zudem, werden Sie in der Lage sein
   * a priori definierte Raumkonzepte von der sozialen Konstruktion von Räumen zu differenzieren,
   * Ihre eigene Kompetenz im DGFG-Bereich "Räumliche Orientierung" innerhalb der drei Anforderungsbereiche zu verorten.
 
-Zu dieser Übung gibt es ein [Arbeitsblatt (AB)]({{ site.baseurl }}{% link _unit08/unit08-02_arbeitsblatt.md %}) und eine [Materialseite M01]({{ site.baseurl }}{% link _unit08/unit08-03_material.md %}). 
+Zu dieser Übung gibt es ein [Arbeitsblatt (AB)]({{ site.baseurl }}{% link _unit08/unit08-02_arbeitsblatt.md %}) und eine [Materialseite]({{ site.baseurl }}{% link _unit08/unit08-03_material.md %}). 
 
 ## Präsentation zum Thema Geocaching
 
