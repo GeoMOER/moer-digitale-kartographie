@@ -9,7 +9,7 @@ header:
   caption: 'Photo: [**Environmental Informatics Marburg**](https://www.flickr.com/environmentalinformatics-marburg/)'
   cta_label: Zum Kursinhalt
   cta_url: "/units.html"
-excerpt: Dieser Kurs dient dem Verständnis der fachlichen Bedeutung von Medien, sowie dem Erwerb professioneller Handlungskompetenzen zum Medieneinsatz.
+excerpt: Dieser Kurs dient dem Verständnis der fachlichen Bedeutung von (Geo-)Medien.
 feature_row_intro:
 - excerpt: Einführungskurs im Lehramtsstudium Erdkunde an den den Universitäten [Philipps Universität Marburg](https://www.uni-marburg.de/de/fb19/studium/studiengaenge/erdkunde-lehramt-gymnasium/herzlich-willkommen-beim-bachelor-geographie){:target="_blank"} und [Goethe Universität Frankfurt am Main](https://www.uni-frankfurt.de/35791074){:target="_blank"}
 feature_row_ilos:
