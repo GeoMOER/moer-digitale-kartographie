@@ -181,7 +181,7 @@ defaults:
       path: ""
       type: unit08
     values:
-      category: "08 Geocoaching und räumliche Orientierung"
+      category: "08 Geocaching und räumliche Orientierung"
       tags: "Unit 08"
       layout: single
       sidebar:
