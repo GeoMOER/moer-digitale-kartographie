@@ -46,6 +46,11 @@
   avatar           : "/assets/images/reudenbach.jpg"
   email            : "ui-lehre@geo.uni-marburg.de"
   home             : "https://www.uni-marburg.de/de/fb19/disciplines/physisch/umweltinformatik/umweltinformatik"
+- schulze:
+  name             : "Uwe Schulze"
+  avatar           : "/assets/images/schulze.jpg"
+  email            : "uschulze@geo.uni-frankfurt.de"
+  home             : "https://www.uni-frankfurt.de/46194385/01_portrait"
 - ziegler:
   name             : "Alice Ziegler"
   avatar           : "/assets/images/ziegler.jpg"
